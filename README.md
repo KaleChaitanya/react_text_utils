@@ -7,7 +7,8 @@ Here're some of the project's best features:
 *   Change text to UPPERCASE
 *   change text to lowercase
 *   Copy Text
-*   Remove extra space  
+*   Remove extra space
+*   Enable dark/light mode
   
 <h2>💻 Built with</h2>
 
